@@ -1,0 +1,6 @@
+{
+  "name": "LK Date",
+  "description": "Premium dating and real-time chat application with high-quality simulated Audio and Video calling features, featuring OTP verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
